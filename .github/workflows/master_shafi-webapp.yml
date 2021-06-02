@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'shafi-webapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_777c8d95954c432c85283522bee9d74b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b67002ab438d4a7dada3d137ccd948fa }}
         package: .
